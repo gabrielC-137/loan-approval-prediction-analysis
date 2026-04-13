@@ -6,7 +6,7 @@ This directory contains the cleaned and transformed dataset used for analysis an
 
 ## File
 
-- **loan_dataset_clean.csv**
+- **loan_dataset_clean.xlsx**
 
 ---
 
